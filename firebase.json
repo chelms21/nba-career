@@ -10,6 +10,10 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+    "github": {
+      "repo": "chelms21/nba-career",
+      "branch": "main"
+    }
   }
 }
